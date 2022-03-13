@@ -7,7 +7,8 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy-csf": "sh shell/deploy-csf.sh"
+    "deploy-csf": "sh shell/deploy-csf.sh",
+    "deploy-rsync": "sh shell/deploy-rsync.sh"
   },
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.8.0",
