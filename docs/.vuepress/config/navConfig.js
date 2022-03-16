@@ -13,7 +13,7 @@ const frame = { text: '前端工程化和框架', items: [
     { text: 'webpack', link: '/src/advance/' }
   ]},
   { text: '前端框架', items: [
-    { text: 'Vue', link: '/src/frame/' }
+    { text: 'Vue', link: '/src/frame/vue/01.md' }
   ]}
 ]}
 
@@ -24,6 +24,7 @@ const server = { text: '后端', items: [
   { text: 'Redis', link: '/src/server/redis/01.md' },
   { text: 'MySQL', link: '/src/server/mysql/01.md' },
   { text: 'Linux', link: '/src/server/linux/01.md' },
+  { text: 'Nginx', link: '/src/server/nginx/01.md' },
 ]}
 
 const algorithm = { text: '算法', link: '/src/algorithm/' }
