@@ -20,4 +20,6 @@ module.exports = [
   ['@vuepress/back-to-top'],
   ['@vuepress/medium-zoom'],
   ['@vuepress/active-header-links'],
+  ["flowchart"],
+  ["reading-progress"], // 阅读进度条
 ]
