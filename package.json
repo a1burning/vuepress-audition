@@ -11,10 +11,12 @@
     "deploy-rsync": "sh shell/deploy-rsync.sh"
   },
   "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-extract-code": "^1.0.4",
     "@vuepress/plugin-active-header-links": "^1.8.0",
     "@vuepress/plugin-back-to-top": "^1.8.0",
     "@vuepress/plugin-medium-zoom": "^1.8.0",
     "@vuepress/plugin-pwa": "^1.8.0",
+    "@vuepress/plugin-register-components": "^1.9.7",
     "moment": "^2.29.1",
     "vuepress": "^1.8.0",
     "vuepress-plugin-auto-sidebar": "^1.5.0",

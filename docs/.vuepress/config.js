@@ -33,7 +33,8 @@ module.exports = {
   configureWebpack: {
     resolve: {
       alias: {
-        '@public': '/docs/.vuepress/public'
+        '@public': '/docs/.vuepress/public',
+        '@components': '/docs/.vuepress/components',
       }
     }
   },
