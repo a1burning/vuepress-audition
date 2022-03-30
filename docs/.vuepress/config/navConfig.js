@@ -8,8 +8,9 @@ const computer = { text: '计算机基础', items: [
 const frontend = { text: '前端基础', items: [
   { text: '浏览器', link: '/src/base/render/01.md' },
   { text: '前端基础', items: [
+    { text: 'html', link: '/src/base/html/01.md' },
+    { text: 'css', link: '/src/base/css/01.md' },
     { text: 'js', link: '/src/base/javaScript/01.md' },
-    { text: 'css', link: '/src/base/css/01.md' }
   ]}
 ]}
 
