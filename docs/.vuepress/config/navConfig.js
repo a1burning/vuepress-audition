@@ -3,6 +3,7 @@ const home = { text: 'Home', link: '/', icon: 'reco-home' }
 const computer = { text: '计算机网络', link: '/src/computer/01.md' }
 
 const frontend = { text: '前端基础', items: [
+  { text: '浏览器渲染', link: '/src/base/render/01.md' },
   { text: '前端基础', items: [
     { text: 'js', link: '/src/base/javaScript/01.md' },
     { text: 'css', link: '/src/base/css/01.md' }
