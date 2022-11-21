@@ -9,7 +9,7 @@ heroImageStyle: {
   borderRadius: '50%',
   boxShadow: '0 5px 18px rgba(0,0,0,0.2)'
 }
-tagline: 收录题库前端324道，算法21道，后端25道
+tagline: 收录题库前端338道，算法21道，后端25道
 actionText: 进入博客 →
 actionLink: /timeline/
 pageClass: blog-home
