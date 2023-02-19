@@ -37,6 +37,7 @@ const server = { text: '后端', items: [
   { text: 'MySQL', link: '/src/server/mysql/01.md' },
   { text: 'Linux', link: '/src/server/linux/01.md' },
   { text: 'Nginx', link: '/src/server/nginx/01.md' },
+  { text: 'Docker', link: '/src/server/docker/01.md' },
 ]}
 
 const algorithm = { text: '算法', link: '/src/algorithm/01.md' }
