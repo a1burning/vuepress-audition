@@ -38,6 +38,7 @@ const server = { text: '后端', items: [
   { text: 'Linux', link: '/src/server/linux/01.md' },
   { text: 'Nginx', link: '/src/server/nginx/01.md' },
   { text: 'Docker', link: '/src/server/docker/01.md' },
+  { text: 'Java', link: '/src/server/java/01.md' },
 ]}
 
 const algorithm = { text: '算法', link: '/src/algorithm/01.md' }
