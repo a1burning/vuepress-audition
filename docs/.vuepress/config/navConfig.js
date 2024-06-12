@@ -41,7 +41,10 @@ const server = { text: '后端', items: [
   { text: 'Java', link: '/src/server/java/01.md' },
 ]}
 
-const algorithm = { text: '算法', link: '/src/algorithm/01.md' }
+const algorithm = { text: '算法和数据结构', items: [
+  { text: '数据结构', link: '/src/dataStructure/01.md' },
+  { text: '算法', link: '/src/algorithm/01.md' },
+]}
 
 const timeLine = { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' }
 
