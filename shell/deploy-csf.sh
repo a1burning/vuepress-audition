@@ -9,6 +9,6 @@ echo building project $name:
 npm run docs:build
 # 发布
 echo send project $name:
-rsync -arz docs/.vuepress/dist/ root@www.hu77.top:/root/home/$name/
+rsync -arz docs/.vuepress/dist/ root@www.hu77.top:/xp/www/home/$name/
 
 echo you can visit http://$dns.hu77.top/
